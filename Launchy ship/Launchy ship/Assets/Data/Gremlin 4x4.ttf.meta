@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0f212c0ed29c53d48936da39b32d2214
+timeCreated: 1524671305
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gremlin 4x4
+  fontNames:
+  - Gremlin 4x4
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
